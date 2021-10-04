@@ -10,7 +10,7 @@ LATEST_BUILDS_URL = "http://latestbuilds.service.couchbase.com/builds/latestbuil
 class Version:
 
     VERSIONS = {'6.5': 'mad-hatter',
-                '7.0': 'cheshire-chat',
+                '7.0': 'cheshire-cat',
                 '7.1': 'neo'}
 
     EDITIONS, PLATFORMS = {'enterprise'}, {'centos7.x86_64.rpm'}
